@@ -1,0 +1,113 @@
+li {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+    padding-right: 32px;
+    font-weight: 500;
+}
+
+nav {
+    background-color: #afd2de;
+    margin: 50px;
+
+
+}
+
+nav ul {
+    display: block;
+    font-size: 1.5rem;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+main {
+    margin-left: 13rem;
+    margin-right: 13rem;
+}
+
+section {
+    margin: 16px;
+    border: solid 2px;
+
+
+}
+
+h2 {
+    text-align: center;
+}
+
+.nfw {
+    display: block;
+    width: 10rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wade {
+    border: solid #006D77;
+    margin: 1rem 0rem 1rem 0rem;
+    padding: 1rem;
+    display: block;
+    margin-right: 1rem;
+}
+
+ul {
+    list-style: none;
+}
+
+.haut {
+    margin-left: 2rem;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    margin-top: 10px;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+fieldset {
+    color: rgb(0, 208, 255);
+    width: 20rem;
+    margin-top: 2rem;
+
+}
+
+fieldset>legend {
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: black;
+    color: white;
+    padding: 5px;
+
+}
+
+form {
+
+    width: fit-content;
+    margin: auto;
+
+}
+
+.groupe-input {
+    margin-top: 1rem;
+
+
+}
